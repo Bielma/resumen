@@ -2,25 +2,31 @@
   {
     "id": 0,
     "name": "Telegram",
-    "link": "https://t.me/smakosh",
+    "link": "https://t.me/bielma03",
     "icon": "/icons/telegram.svg"
   },
   {
     "id": 1,
     "name": "Github",
-    "link": "https://github.com/smakosh",
+    "link": "https://github.com/bielma",
     "icon": "/icons/github.svg"
   },
   {
     "id": 2,
-    "name": "StackOverflow",
-    "link": "https://stackoverflow.com/users/story/7396786",
-    "icon": "/icons/stackoverflow.svg"
+    "name": "Linkedin",
+    "link": "https://www.linkedin.com/in/antonio-bielma-l%C3%B3pez-068557150/",
+    "icon": "/icons/linkedin.svg"
   },
   {
     "id": 3,
     "name": "Twitter",
-    "link": "https://twitter.com/smakosh",
+    "link": "https://twitter.com/thonybl",
     "icon": "/icons/twitter.svg"
+  },
+  {
+    "id": 4,
+    "name": "Instagram",
+    "link": "https://instagram.com/bielma.py",
+    "icon": "/icons/instagram.svg"
   }
 ]

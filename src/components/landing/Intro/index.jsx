@@ -16,8 +16,8 @@ export const Intro = () => {
         <Details theme={theme}>
           <h1>Hi There!</h1>
           <h4>I’m Tony and I’m a Fulltack developer!</h4>
-          <Button as={AnchorLink} href="#contact">
-            Hagamos algo juntos
+          <Button as={AnchorLink} href="https://www.dropbox.com/s/cybdsz1ux09lfqr/antonio_bielma_resume.pdf?dl=0">
+            Ver resumen
           </Button>
         </Details>
         <Thumbnail>
