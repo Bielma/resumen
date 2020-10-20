@@ -15,13 +15,13 @@ export const Intro = () => {
       <IntroWrapper as={Container}>
         <Details theme={theme}>
           <h1>Hi There!</h1>
-          <h4>I’m John and I’m a JAMStack engineer!</h4>
+          <h4>I’m Tony and I’m a Fulltack developer!</h4>
           <Button as={AnchorLink} href="#contact">
-            Hire me
+            Hagamos algo juntos
           </Button>
         </Details>
         <Thumbnail>
-          <img src={dev} alt="I’m John and I’m a JAMStack engineer!" />
+          <img src={dev} alt="I’m Tony and I’m a Fulltack developer!" />
         </Thumbnail>
       </IntroWrapper>
     </Wrapper>
