@@ -19,8 +19,8 @@ export const Skills = () => {
           <p>
             A computer science student and passionate about mobile development and Data Science 
           </p>
-          <Button as={AnchorLink} href="#contact">
-            Hire me
+          <Button as={AnchorLink} href="https://www.youtube.com/watch?v=gqOrW1vL_Yk">
+            ete seech
           </Button>
         </Details>
       </SkillsWrapper>
